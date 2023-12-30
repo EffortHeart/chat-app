@@ -1,12 +1,9 @@
-[![Logo](https://e-talk.vercel.app/images/logo.png)](https://e-talk.vercel.app)
 
 # E-Talk
 
 E-Talk is a basic chat Application that is build using the MERN Stack stands for MongoDB, ExpressJS, ReactJS, NodeJS.
 
 ## Live Website
-
-- [E-Talk](https://e-talk.vercel.app)
 
 ## Features
 
@@ -40,11 +37,6 @@ To Run E-Talk project on local system follow the simple steps:
 ### Step-1
 
 clone this project on your local system
-
-```bash
-  git clone https://github.com/Nitesh52221/E-Talk.git
-  cd E-Talk
-```
 
 ### Step-2 Installing Dependency
 
@@ -139,23 +131,3 @@ To start the server automatic after every changes we have to run this command :
 ```
 
 after starting the both Frontend and Backend server you can access application on the browser.
-
-## Screenshots
-
-![image](https://github.com/narendercoder/E-Talk/assets/89627914/4524a5d6-a87e-4d1a-bf55-c67282a983a9)
-
-
-
-![image](https://github.com/narendercoder/E-Talk/assets/89627914/ac583b1d-af2c-45c7-864c-1a6ef8e3cd74)
-
-
-
-## Authors
-
-- [@narendercoder](https://github.com/narendercoder)
-- [@niteshtiwari52](https://github.com/niteshtiwari52)
-- [@Rituresh143](https://github.com/Rituresh143)
-
-## Feedback
-
-If you have any feedback or Suggestion, please reach out to us at etalkhelp12@gmail.com
