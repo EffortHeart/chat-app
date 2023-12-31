@@ -1,0 +1,28 @@
+.input-suffix-end {
+  right: 0.625rem;
+}
+.input-suffix-end {
+  --tw-translate-y: -50%;
+  display: flex;
+  position: absolute;
+}
+
+.input-wrapper {
+  display: flex;
+  position: relative;
+  width: 100%;
+}
+
+.form-label {
+  align-items: center;
+  display: flex;
+  font-weight: 500;
+}
+.form-item.vertical {
+  display: flex;
+  flex-direction: column;
+}
+.form-item {
+  position: relative;
+  margin-bottom: 1.75rem;
+}
